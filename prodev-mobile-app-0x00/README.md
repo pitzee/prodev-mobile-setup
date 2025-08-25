@@ -19,3 +19,7 @@
 ## ✅ Outcome
 
 Successfully viewed the running React Native app on my physical device using Expo Go.
+
+## reset-project
+
+i delete the app folder content wile i select no wile the resetting prompt yes or no
