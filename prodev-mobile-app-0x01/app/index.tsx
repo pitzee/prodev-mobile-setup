@@ -4,7 +4,7 @@ export default function Index() {
   return (
     <View style={styles.container}>
       <Text>"Entry Screen - Awesome"</Text>
-      <view>
+      <Text>
         <Text style={styles.largeText}>
           Typescript is great if you practice more
         </Text>
@@ -12,7 +12,7 @@ export default function Index() {
           React Native provides you a single codebase for cross platforms
         </Text>
         <Text style={styles.smallText}>ALX is awesome</Text>
-      </view>
+      </Text>
     </View>
   );
 }
